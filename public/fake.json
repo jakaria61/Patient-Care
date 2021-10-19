@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Md Jakaria.",
+        "img": "https://i.ibb.co/4fcyXjh/doc5.png",
+        "expertise": "Surgeon",
+        "description": "Jakaria Lutfor Rahman is a pioneer of beating heart bypass surgery in Bangladesh."
+    },
+    {
+        "id": 2,
+        "name": "Valentina Gradner",
+        "img": "https://i.ibb.co/DC63rPQ/doc1.png",
+        "expertise": "Dentist",
+        "description": "She was employed in the doctor's profession. "
+    },
+    {
+        "id": 3,
+        "name": "Donald Wiliams",
+        "img": "https://i.ibb.co/xgP7ZJB/doc6.png",
+        "expertise": "Neorology",
+        "description": "He is very expert in Neorology .He employed in the doctor's profession. "
+    },
+    {
+        "id": 4,
+        "name": "Ariella Xesica",
+        "img": "https://i.ibb.co/p3QK149/doc4.png",
+        "expertise": "Endrocrynology",
+        "description": "She was employed in the doctor's profession. "
+    },
+    {
+        "id": 5,
+        "name": "Elon Musk",
+        "img": "https://i.ibb.co/Ws6ChS4/doc7.png",
+        "expertise": "Medicine",
+        "description": "He is a Medicine spacialist in our country. He is very famous person in Bangladesh for his working expertise."
+    },
+    {
+        "id": 6,
+        "name": "Valentina Nappy",
+        "img": "https://i.ibb.co/58LWL1g/doc2.png",
+        "expertise": "Dentist",
+        "description": "She was employed in the doctor's profession. "
+    }
+]

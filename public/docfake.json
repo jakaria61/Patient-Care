@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Asthema",
+        "img": "https://i.ibb.co/VV1DXGW/asthena.png",
+        "description": "Asthma is a long-term disease of the lungs. It causes your airways to get inflamed and narrow, and it makes it hard to breathe. Severe asthma can cause trouble talking or being active."
+    },
+    {
+        "id": 2,
+        "name": "Eye Dieases",
+        "img": "https://i.ibb.co/1QgLYD1/eye.png",
+        "description": "The eye is our organ of sight. The eye has a number of components which include but are not limited to the cornea, iris, pupil, lens, retina, macula, optic nerve, choroid and vitreous."
+    },
+    {
+        "id": 3,
+        "name": "Broken Bone",
+        "img": "https://i.ibb.co/yVRgWGx/break-bone.png",
+        "description": "A bone fracture is a break in the continuity of a bone. A significant percentage of bone fractures occur because of high force impact or stress."
+    },
+    {
+        "id": 4,
+        "name": "Allergies",
+        "img": "https://i.ibb.co/cFw3rN1/allergy.png",
+        "description": "Allergies are your body's reaction to a normally harmless substance such as pollen, molds, animal dander, latex, certain foods and insect stings."
+    },
+    {
+        "id": 5,
+        "name": "Diabetes",
+        "img": "https://i.ibb.co/bgNfPMD/diabetics.png",
+        "description": "Diabetes is a chronic (long-lasting) health condition that affects how your body turns food into energy."
+    },
+    {
+        "id": 6,
+        "name": "Open-heart surgery",
+        "img": "https://i.ibb.co/M7w5SFz/surgery.png",
+        "description": "Open-heart surgery is any type of surgery where the chest is cut open and surgery is performed on the muscles, valves, or arteries of the heart."
+    },
+    {
+        "id": 7,
+        "name": "Heart Failure",
+        "img": "https://i.ibb.co/CnJjRsy/heart-1.png",
+        "description": "Heart failure means that the heart is unable to pump blood around the body properly. It usually occurs because the heart has become too weak or stiff. "
+    }
+]

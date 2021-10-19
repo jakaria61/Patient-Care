@@ -1,0 +1,20 @@
+.doctor-container{
+    
+    margin:20px;
+    border-radius:10px;
+    text-align:center;
+    transition: 2s;
+}
+.doctor-container:hover{
+    
+    background-color:#eee;
+    transform: scale(1.1);
+}
+.doctor-image{
+    margin: 10px;
+    border-radius: 50%;
+}
+.icon-container a{
+    margin: 10px;
+    font-size:24px;
+}
