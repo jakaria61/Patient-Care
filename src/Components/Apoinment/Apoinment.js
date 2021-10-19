@@ -24,8 +24,9 @@ const Apoinment = () => {
 
                         </div>
 
-                        <button type="submit" class="btn btn-outline-success mb-3"> Send Request <i class="far fa-paper-plane"></i></button>
+
                     </form>
+                    <button type="submit" class="btn btn-outline-success mb-3"> Send Request <i class="far fa-paper-plane"></i></button>
                 </div>
                 <div className='col-md-6'>
                     <img src={api} alt="" className='img-fluid api-img ' />
